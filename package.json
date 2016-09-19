@@ -16,7 +16,6 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "events": "*",
-    "pako": "*",
     "sdp-interop": "0.1.11",
     "sdp-transform": "1.5.*",
     "sdp-simulcast": "0.1.7",
